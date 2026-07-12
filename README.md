@@ -4,7 +4,7 @@ A simple chatbot project built using modern web technologies.
 
 ## Repository Details
 
-- *Backend**
+- **Backend**
   - TypeScript 
   - Langgraph
 
