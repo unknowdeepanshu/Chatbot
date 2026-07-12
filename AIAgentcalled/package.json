@@ -1,0 +1,30 @@
+{
+  "name": "aiagentcalled",
+  "version": "1.0.0",
+  "description": "This is server of langgraph api send to api to fronted",
+  "license": "ISC",
+  "author": "Dipanshu",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon --watch src --ext ts --exec \"npx tsx src/index.ts\"",
+    "start": "npx tsx src/index.ts",
+    "start:prod": "npm run build && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.2.2",
+    "@langchain/groq": "^1.3.1",
+    "@langchain/langgraph": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "langchain": "^1.5.3",
+    "nodemon": "^3.1.14"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "typescript": "^7.0.2"
+  }
+}
