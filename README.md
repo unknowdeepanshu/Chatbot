@@ -4,10 +4,9 @@ A simple chatbot project built using modern web technologies.
 
 ## Repository Details
 
-- **Main Languages:**
-  - TypeScript (75.4%)
-  - CSS (23.7%)
-  - HTML (0.9%)
+- *Backend**
+  - TypeScript 
+  - Langgraph
 
 ## About This Chatbot
 
@@ -53,5 +52,5 @@ This chatbot is designed to provide a simple and interactive chat experience. It
    npm run dev
    ```
 
-## Tech use 
+
 
