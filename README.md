@@ -4,8 +4,6 @@ A simple chatbot project built using modern web technologies.
 
 ## Repository Details
 
-- **Repository:** [unknowdeepanshu/Chatbot](https://github.com/unknowdeepanshu/Chatbot)
-- **Repository ID:** `1298142222`
 - **Main Languages:**
   - TypeScript (75.4%)
   - CSS (23.7%)
@@ -21,6 +19,7 @@ This chatbot is designed to provide a simple and interactive chat experience. It
    ```bash
    git clone https://github.com/unknowdeepanshu/Chatbot.git
    ```
+## Run Project Frontend
 
 2. Go to the project folder:
    ```bash
@@ -32,17 +31,27 @@ This chatbot is designed to provide a simple and interactive chat experience. It
    npm install
    ```
 
-## Steps to Run the Project
-
-1. Start the development server:
+4. Start the development server:
    ```bash
    npm run dev
    ```
 
-2. Open the local URL shown in terminal (usually `http://localhost:5173`).
+## Run Project Backend
 
-## Build for Production
+1. Go to the project folder:
+   ```bash
+   cd Chatbot/AIAgentcalled
+   ```
 
-```bash
-npm run build
-```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Tech use 
+
