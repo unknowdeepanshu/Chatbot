@@ -5,6 +5,7 @@ A simple chatbot project built using modern web technologies.
 ## Repository Details
 
 **Frontend**: React, Vite, Tailwind CSS, Axios, Lucide React
+
 **Backend**: Express, LangChain, LangGraph, dotenv, cors
 
 ## About This Chatbot
