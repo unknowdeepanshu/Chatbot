@@ -2,6 +2,10 @@
 
 A simple chatbot project built using modern web technologies.
 
+
+<img width="1920" height="915" alt="screencapture-localhost-5173-2026-07-12-14_26_18 (1)" src="https://github.com/user-attachments/assets/ddcd582f-186e-4f32-a259-bb4443a2ec78" />
+
+
 ## Repository Details
 
 **Frontend**: React, Vite, Tailwind CSS, Axios, Lucide React
