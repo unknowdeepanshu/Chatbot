@@ -56,5 +56,9 @@ This chatbot is designed to provide a simple and interactive chat experience. It
    npm run dev
    ```
 
-
-
+##### Note: Create .env file in Backend folder 
+   ```bash
+GROQ_API_KEY = ADD_GROQ_API_KEY
+   ```
+Get the API key 
+## [GROQ](https://groq.com/)
